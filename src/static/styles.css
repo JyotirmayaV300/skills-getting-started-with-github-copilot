@@ -118,6 +118,20 @@ section h3 {
   font-size: 12px;
 }
 
+.participant-remove {
+  margin-left: auto;
+  background: transparent;
+  border: none;
+  color: #c62828;
+  cursor: pointer;
+  font-size: 14px;
+  padding: 4px;
+}
+
+.participant-remove:hover {
+  color: #b71c1c;
+}
+
 .no-participants {
   color: #999;
   font-style: italic;
